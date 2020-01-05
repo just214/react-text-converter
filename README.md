@@ -2,6 +2,8 @@
 
 A text converter app built with React (hooks) and TypeScript.
 
+<img src="https://res.cloudinary.com/gojutin/image/upload/v1578196537/react-text-converter.gif" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

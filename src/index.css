@@ -49,7 +49,7 @@ textarea {
   transition: border-color 0.2s;
 }
 
-textarea:focus {
+textarea:focus:not([disabled]) {
   border-color: white;
 }
 
